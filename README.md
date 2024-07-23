@@ -1,8 +1,7 @@
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://facebook.com/binhsna01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/binhsna) 
+<h2 align="center">🛠 Technologies and Tools 🛠</h2>
+<br>
 
-# 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
@@ -30,5 +29,27 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) 
+![Git](https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032) 
+![VSCode](https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC) 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2 align="center">👽 Where to find me 👽</h2>
+<br>
+<!-- https://icons8.com -->
+<div align="center">
+  <a href="https://www.youtube.com/@binhsna" target="_blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube.png" alt="binhsna-youtube" />
+  </a>
+  <a href="https://facebook.com/binhsna01" target="_blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="binhsna-facebook" />
+  </a>
+  <a href="https://www.linkedin.com/in/binhsna/" target="_blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="binhsna-linkedin" />
+  </a>
+  <a href="https://www.twitter.com/binhsna/" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=108650&format=png" alt="binhsna-twitter" />
+  </a>
+  
+  <a href="mailto:binhsna@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="binhsna-email" />
+  </a>
+</div>
